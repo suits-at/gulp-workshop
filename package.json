@@ -1,0 +1,22 @@
+{
+  "name": "gulp-workshop",
+  "version": "1.0.0",
+  "description": "basic gulp-workshop",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suits-at/gulp-workshop.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SUITS",
+  "license": "ISC"
+}
