@@ -1,5 +1,7 @@
-# gulp-workshop
-basic gulp-workshop
+# Gulp workshop
+
+A basic gulp workshop.
+
 ![Gulp](src/images/gulp.png?raw=true "Gulp")
 
 # Installation
