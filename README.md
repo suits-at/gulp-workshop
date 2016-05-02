@@ -14,6 +14,8 @@ Install Ruby: http://rubyinstaller.org/downloads/
 Install Sass gem:
 
     gem install sass
+    
+> Note: You might need sudo rights.
   
 Check installed Sass version:
 
