@@ -27,7 +27,7 @@ gulp.task('scripts', function() {
 
 // Minify images
 gulp.task('images', function () {
-    gulp.src('src/images/*.{png,gif,jpg}')
+    return gulp.src('src/images/*.{png,gif,jpg}')
         .pipe(imagemin())
         .pipe(gulp.dest('dist/images'));
 });
