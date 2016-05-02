@@ -6,7 +6,7 @@ A basic gulp workshop.
 
 # Installation
 
-For this workshop requires Sass, Node and Gulp.
+This workshop requires Sass (which requires Ruby), Node.js and gulp.
 
 ## Sass
 Install Ruby: http://rubyinstaller.org/downloads/
@@ -23,15 +23,15 @@ Check installed Sass version:
 
     sass -v
 
-### Node
-Install Node: https://nodejs.org/en/download/
+### Node.js
+Install Node.js: https://nodejs.org/en/download/
 
-Check installed Node version:
+Check installed Node.js version:
 
     node -v
 
 ### Gulp
-Install gulp npm package (globally):
+Install gulp npm package globally:
 
     npm install -g gulp
 
